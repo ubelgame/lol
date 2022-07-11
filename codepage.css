@@ -5,7 +5,12 @@ body{
  .container{
      width: 320px;
      height: 420px;
-     background-color: #0000;
+     background-color: #00000000;
      color: #fff;
+     margin-left: 50px;
+     margin-top: 50px;
 
+ }
+ h1,h2{
+     color: black;
  }
